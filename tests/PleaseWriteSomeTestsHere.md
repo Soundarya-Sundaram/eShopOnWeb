@@ -36,6 +36,8 @@ I've considered these functionalities for automation because they allow me to ac
 # Run the Test
 For Triggering the execution use below command:
 * mvn clean install -Dbrowser=chrome -DexecType=local
+
+
 Can use tags in cucumber such as @Smoke @Regression to run those scenarios
 * Example: mvn clean isntall -Pchrome-grid -Dcucumber.filter.tags="@Smoke"
 
