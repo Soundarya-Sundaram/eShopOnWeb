@@ -32,6 +32,7 @@ I've considered these functionalities for automation because they allow me to ac
 * Implement scripted loops and utilize collections concepts as needed.
 
 # Automation Script
+https://github.com/Soundarya-Sundaram/eShopAutomationTask.git
 
 # Run the Test
 For Triggering the execution use below command:
